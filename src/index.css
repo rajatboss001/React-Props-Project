@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --text-custom-5xl: 50px;
+  --color-off-white: #FFFFFF0F;
+  --color-wave-start: #F1D9FF;
+  --color-wave-end: #D5A0F5;
+
+}
